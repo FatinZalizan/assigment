@@ -1,12 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+.p1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.p2 {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+</style>
 </head>
 <body>
 
-<h1  style="background-color:DodgerBlue;">This is a Heading</h1>
-<p style="background-color:Tomato;">This is a paragraph.</p>
+<p class="p1">This is a Heading</p>
+<p class="p2">This is a paragraph.</p>
 
 </body>
 </html>
